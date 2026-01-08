@@ -1,0 +1,34 @@
+metabolite,log2FC,pvalue,pathway,brain_region
+Glutamate,1.45,0.00023,Excitotoxicity,Hippocampus
+Glutamine,-0.89,0.0034,Glutamate-glutamine,Hippocampus
+GABA,-1.23,0.00089,Inhibitory,Hippocampus
+N-Acetylaspartate,-1.56,0.00034,Neuronal marker,Hippocampus
+Myo-inositol,1.34,0.00056,Glial marker,Hippocampus
+Choline,0.89,0.0023,Membrane turnover,Hippocampus
+Phosphocholine,0.78,0.0034,Membrane synthesis,Hippocampus
+Glycerophosphocholine,1.12,0.0012,Membrane breakdown,Hippocampus
+Creatine,-0.67,0.0067,Energy metabolism,Hippocampus
+Lactate,1.23,0.00089,Anaerobic metabolism,Hippocampus
+Glucose,-0.89,0.0034,Energy substrate,Hippocampus
+Taurine,0.56,0.023,Osmolyte,Hippocampus
+Acetylcholine,-1.89,0.00001,Cholinergic,Hippocampus
+Dopamine,-0.78,0.0056,Catecholamine,Hippocampus
+Norepinephrine,-0.67,0.0078,Catecholamine,Hippocampus
+Serotonin,-0.89,0.0045,Monoamine,Hippocampus
+Kynurenine,1.56,0.00034,Tryptophan/inflammation,Hippocampus
+Quinolinic acid,1.89,0.00012,Neurotoxic,Hippocampus
+Kynurenic acid,-0.78,0.0056,Neuroprotective,Hippocampus
+Tryptophan,-0.67,0.0078,Precursor,Hippocampus
+Arginine,-0.89,0.0045,NO precursor,Hippocampus
+Citrulline,0.67,0.0078,NO byproduct,Hippocampus
+Ornithine,0.56,0.012,Urea cycle,Hippocampus
+Proline,0.45,0.023,Collagen,Hippocampus
+Hydroxyproline,0.78,0.0056,Collagen breakdown,Hippocampus
+Glutathione reduced,-1.34,0.00056,Antioxidant,Hippocampus
+Glutathione oxidized,1.45,0.00034,Oxidative stress,Hippocampus
+Ascorbate,-0.89,0.0034,Antioxidant,Hippocampus
+Uric acid,0.67,0.0078,Antioxidant/purine,Hippocampus
+Hypoxanthine,1.12,0.0023,Purine degradation,Hippocampus
+Xanthine,0.89,0.0045,Purine degradation,Hippocampus
+Ceramide(d18:1/18:0),1.34,0.00067,Sphingolipid,Hippocampus
+Sphingosine-1-phosphate,-0.78,0.0056,Sphingolipid signaling,Hippocampus

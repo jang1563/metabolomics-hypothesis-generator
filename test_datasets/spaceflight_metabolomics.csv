@@ -1,0 +1,29 @@
+metabolite,log2FC,pvalue,pathway,description
+Quinic Acid,-3.91,0.00012,Phenolic metabolism,Gut microbiome marker
+Theobromine,-3.03,0.00034,Caffeine metabolism,Methylxanthine compound
+Trigonelline,-2.88,0.00045,Vitamin B metabolism,NAD precursor
+C-PAF,-2.23,0.00089,Lipid signaling,Platelet activating factor
+Hippuric Acid,-2.07,0.0012,Aromatic metabolism,Microbiome-derived
+Hydroquinone,-2.01,0.0015,Phenolic metabolism,Antioxidant metabolite
+Proline Betaine,-1.89,0.0023,Osmoprotection,Osmolyte
+Lactose,-1.45,0.0056,Carbohydrate metabolism,Disaccharide
+Sucrose,-1.44,0.0058,Carbohydrate metabolism,Disaccharide
+Dehydroascorbic Acid,-1.11,0.012,Antioxidant,Oxidized Vitamin C
+Pyruvate,-0.95,0.023,Energy metabolism,Glycolysis intermediate
+Cys-Gly,-0.92,0.028,Glutathione metabolism,GSH degradation product
+Thiosulfate,-0.86,0.034,Sulfur metabolism,Sulfur compound
+Cysteineglutathione Disulfide,-0.69,0.056,Antioxidant,Oxidized glutathione marker
+Uric Acid,-0.40,0.12,Purine metabolism,Antioxidant
+Taurine,-0.37,0.15,Sulfur amino acids,Osmolyte and antioxidant
+Alanine,-0.22,0.34,Amino acid metabolism,Glucogenic amino acid
+Glycine,-0.18,0.42,Amino acid metabolism,One-carbon metabolism
+Serine,-0.12,0.55,Amino acid metabolism,One-carbon donor
+4-Hydroxy-Proline,0.45,0.089,Collagen metabolism,Collagen marker
+N-Acetylglycine,0.58,0.067,Amino acid metabolism,Acetylated amino acid
+Xanthine,0.59,0.065,Purine metabolism,Purine degradation
+Corticosterone,0.77,0.045,Steroid metabolism,Stress hormone
+1-Methylnicotinamide,1.12,0.012,NAD metabolism,NAD+ degradation product
+2-Hydroxybutyric Acid,1.30,0.0078,Organic acids,Oxidative stress marker
+Carnitine,0.89,0.034,Fatty acid transport,Beta-oxidation cofactor
+Bilirubin,0.67,0.078,Heme metabolism,Heme degradation
+Methylmalonic Acid,0.45,0.12,Vitamin B12 metabolism,B12 deficiency marker

@@ -1,0 +1,36 @@
+metabolite,log2FC,pvalue,pathway,sample_type
+Glucose,1.23,0.00012,Carbohydrate,Plasma
+Fructose,0.89,0.0023,Carbohydrate,Plasma
+Lactate,0.67,0.0045,Glycolysis,Plasma
+Pyruvate,0.45,0.012,Glycolysis,Plasma
+Branched-chain AA (total),1.45,0.00034,BCAA metabolism,Plasma
+Leucine,1.34,0.00056,BCAA metabolism,Plasma
+Isoleucine,1.23,0.00078,BCAA metabolism,Plasma
+Valine,1.12,0.0012,BCAA metabolism,Plasma
+3-Hydroxybutyrate,1.89,0.00012,Ketone bodies,Plasma
+Acetoacetate,1.56,0.00034,Ketone bodies,Plasma
+Free fatty acids (total),1.34,0.00067,Lipid metabolism,Plasma
+Palmitate,1.23,0.00089,Fatty acids,Plasma
+Oleate,0.89,0.0023,Fatty acids,Plasma
+Linoleate,0.67,0.0045,Fatty acids,Plasma
+Triglycerides,1.56,0.00045,Lipid metabolism,Plasma
+LPC(16:0),-0.78,0.0067,Phospholipids,Plasma
+LPC(18:0),-0.67,0.0089,Phospholipids,Plasma
+Ceramide(d18:1/16:0),1.23,0.0012,Sphingolipids,Plasma
+Uric acid,0.89,0.0034,Purine metabolism,Plasma
+Creatinine,0.45,0.034,Kidney function,Plasma
+Adiponectin,-1.45,0.00023,Adipokine,Plasma
+Leptin,1.23,0.00089,Adipokine,Plasma
+Fetuin-A,0.89,0.0034,Liver protein,Plasma
+alpha-Hydroxybutyrate,1.34,0.00067,Organic acids,Plasma
+Glutamate,0.78,0.0056,Amino acids,Plasma
+Alanine,0.67,0.0078,Amino acids,Plasma
+Tyrosine,0.56,0.012,Aromatic AA,Plasma
+Phenylalanine,0.45,0.023,Aromatic AA,Plasma
+Glycine,-0.89,0.0034,Amino acids,Plasma
+Serine,-0.67,0.0067,Amino acids,Plasma
+Betaine,-0.56,0.012,One-carbon,Plasma
+Choline,0.34,0.045,Lipid metabolism,Plasma
+TMAO,0.89,0.0034,Gut microbiome,Plasma
+Hippuric acid,-0.67,0.0078,Microbiome,Plasma
+Indole-3-propionate,-0.89,0.0045,Microbiome,Plasma

@@ -1,0 +1,50 @@
+metabolite,log2FC,pvalue,pathway
+Glucose,-1.52,0.0012,Carbohydrate metabolism
+Lactate,2.34,0.00008,Energy metabolism
+Pyruvate,-0.95,0.023,Energy metabolism
+Glutamine,-0.78,0.045,Amino acid metabolism
+Glutamate,1.12,0.0034,Amino acid metabolism
+Alanine,-0.45,0.12,Amino acid metabolism
+Serine,0.67,0.078,Amino acid metabolism
+Glycine,-0.89,0.034,Amino acid metabolism
+Proline,0.34,0.23,Amino acid metabolism
+Valine,-1.23,0.0056,Branched-chain amino acids
+Leucine,-1.45,0.0023,Branched-chain amino acids
+Isoleucine,-1.12,0.0089,Branched-chain amino acids
+Phenylalanine,0.56,0.089,Aromatic amino acids
+Tyrosine,0.78,0.056,Aromatic amino acids
+Tryptophan,-0.34,0.34,Aromatic amino acids
+Succinate,1.56,0.0012,TCA cycle
+Fumarate,1.23,0.0034,TCA cycle
+Malate,0.89,0.045,TCA cycle
+Citrate,-0.67,0.12,TCA cycle
+alpha-Ketoglutarate,-0.45,0.23,TCA cycle
+Palmitate,1.89,0.00045,Fatty acid metabolism
+Stearate,1.67,0.0012,Fatty acid metabolism
+Oleate,1.45,0.0023,Fatty acid metabolism
+Linoleate,1.23,0.0056,Fatty acid metabolism
+Carnitine,2.12,0.00012,Fatty acid transport
+Acetylcarnitine,1.89,0.00034,Fatty acid transport
+NAD+,-1.67,0.0012,Cofactor metabolism
+NADH,0.89,0.034,Cofactor metabolism
+ATP,-0.78,0.056,Energy metabolism
+ADP,0.56,0.12,Energy metabolism
+AMP,1.23,0.023,Energy metabolism
+Glutathione reduced,-1.89,0.00023,Antioxidant
+Glutathione oxidized,2.34,0.00012,Antioxidant
+Ascorbic acid,-1.45,0.0034,Antioxidant
+Dehydroascorbic acid,1.78,0.0012,Antioxidant
+Taurine,-0.89,0.045,Sulfur metabolism
+Cysteine,-1.12,0.023,Sulfur metabolism
+Methionine,-0.67,0.089,Sulfur metabolism
+Choline,0.45,0.23,Lipid metabolism
+Betaine,-0.34,0.34,Osmoprotection
+Creatine,0.78,0.067,Energy storage
+Creatinine,0.56,0.12,Energy storage
+Urea,1.23,0.034,Nitrogen metabolism
+Uric acid,-0.89,0.056,Purine metabolism
+Hypoxanthine,1.45,0.023,Purine metabolism
+Xanthine,1.12,0.045,Purine metabolism
+Inosine,0.89,0.078,Purine metabolism
+Adenosine,-0.67,0.12,Purine metabolism
+Guanosine,-0.45,0.23,Purine metabolism

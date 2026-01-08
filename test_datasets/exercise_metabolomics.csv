@@ -1,0 +1,35 @@
+metabolite,log2FC,pvalue,pathway,timepoint
+Lactate,3.45,0.000001,Glycolysis,Post-exercise
+Pyruvate,1.89,0.00012,Glycolysis,Post-exercise
+Glucose,-1.23,0.00089,Carbohydrate,Post-exercise
+Glycerol,2.12,0.00003,Lipolysis,Post-exercise
+Free fatty acids,1.89,0.00012,Fat mobilization,Post-exercise
+3-Hydroxybutyrate,1.56,0.00034,Ketogenesis,Post-exercise
+Acetoacetate,1.23,0.00078,Ketogenesis,Post-exercise
+Alanine,1.45,0.00045,Glucose-alanine cycle,Post-exercise
+Glutamine,-0.89,0.0034,Muscle fuel,Post-exercise
+Glutamate,0.67,0.0078,Amino acid,Post-exercise
+Branched-chain AAs,-1.12,0.0023,Muscle fuel,Post-exercise
+Leucine,-1.23,0.0012,BCAA,Post-exercise
+Isoleucine,-0.89,0.0045,BCAA,Post-exercise
+Valine,-0.78,0.0067,BCAA,Post-exercise
+Ammonia,1.34,0.00067,Nitrogen,Post-exercise
+Urea,0.89,0.0034,Nitrogen disposal,Post-exercise
+Hypoxanthine,2.34,0.00001,Purine degradation,Post-exercise
+Xanthine,1.89,0.00012,Purine degradation,Post-exercise
+Uric acid,1.45,0.00034,Purine end product,Post-exercise
+Inosine,1.23,0.00078,Purine salvage,Post-exercise
+Creatine,-0.89,0.0034,Energy buffer,Post-exercise
+Creatinine,0.67,0.0078,Creatine breakdown,Post-exercise
+Carnitine,-0.56,0.012,Fat transport,Post-exercise
+Acetylcarnitine,1.34,0.00067,Fat oxidation,Post-exercise
+Acylcarnitines (C16),1.12,0.0023,Fat oxidation,Post-exercise
+Succinate,1.23,0.00089,TCA cycle,Post-exercise
+Malate,0.89,0.0034,TCA cycle,Post-exercise
+Citrate,-0.67,0.0078,TCA cycle,Post-exercise
+NAD+,-0.89,0.0045,Redox,Post-exercise
+NADH,0.78,0.0056,Redox,Post-exercise
+Cortisol,1.45,0.00045,Stress hormone,Post-exercise
+Epinephrine,2.12,0.00008,Catecholamine,Post-exercise
+Norepinephrine,1.89,0.00015,Catecholamine,Post-exercise
+Interleukin-6,1.56,0.00034,Myokine,Post-exercise

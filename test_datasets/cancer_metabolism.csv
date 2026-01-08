@@ -1,0 +1,36 @@
+metabolite,log2FC,pvalue,pathway,tissue
+Lactate,2.45,0.00001,Glycolysis,Tumor
+Glucose,-1.89,0.00003,Glycolysis,Tumor
+Pyruvate,-0.78,0.0012,Glycolysis,Tumor
+Glutamine,-2.12,0.00008,Amino acid metabolism,Tumor
+Glutamate,1.56,0.00023,Amino acid metabolism,Tumor
+Aspartate,1.23,0.00089,Amino acid metabolism,Tumor
+Serine,0.89,0.0034,One-carbon metabolism,Tumor
+Glycine,0.67,0.0078,One-carbon metabolism,Tumor
+Methionine,-0.45,0.034,Methyl donor,Tumor
+S-Adenosylmethionine,-0.56,0.023,Methylation,Tumor
+Succinate,1.78,0.00012,TCA cycle,Tumor
+Fumarate,1.45,0.00034,TCA cycle,Tumor
+2-Hydroxyglutarate,3.21,0.000001,Oncometabolite,Tumor
+alpha-Ketoglutarate,-1.23,0.0012,TCA cycle,Tumor
+Citrate,-0.89,0.0045,TCA cycle/Lipogenesis,Tumor
+Acetyl-CoA,0.78,0.0067,Lipogenesis,Tumor
+Palmitate,1.34,0.0023,Fatty acid synthesis,Tumor
+Cholesterol,0.89,0.0089,Sterol metabolism,Tumor
+Phosphocholine,1.67,0.00045,Membrane synthesis,Tumor
+Choline,-0.78,0.0056,Membrane precursor,Tumor
+NAD+,-1.45,0.0012,Redox,Tumor
+NADH,0.89,0.0034,Redox,Tumor
+Glutathione reduced,-0.67,0.012,Antioxidant,Tumor
+Glutathione oxidized,1.23,0.0023,Oxidative stress,Tumor
+Taurine,0.45,0.067,Osmolyte,Tumor
+Creatine,-0.34,0.12,Energy storage,Tumor
+Hypoxanthine,1.12,0.0045,Purine salvage,Tumor
+Inosine,0.89,0.0078,Purine metabolism,Tumor
+Adenosine,-0.56,0.034,Purine metabolism,Tumor
+Uridine,0.67,0.045,Pyrimidine metabolism,Tumor
+Kynurenine,1.89,0.00034,Tryptophan/Immune,Tumor
+Tryptophan,-1.23,0.0012,Amino acid metabolism,Tumor
+Arginine,-1.56,0.00067,Amino acid/NO,Tumor
+Ornithine,0.89,0.0045,Urea cycle,Tumor
+Proline,0.67,0.0078,Collagen synthesis,Tumor

@@ -1,0 +1,35 @@
+metabolite,log2FC,pvalue,pathway,comparison
+NAD+,-1.89,0.00001,NAD metabolism,Old vs Young
+NMN,-1.45,0.00012,NAD precursor,Old vs Young
+Nicotinamide,-0.89,0.0023,NAD metabolism,Old vs Young
+1-Methylnicotinamide,1.23,0.00089,NAD catabolism,Old vs Young
+Glutathione reduced,-1.34,0.00034,Antioxidant,Old vs Young
+Glutathione oxidized,1.56,0.00012,Oxidative stress,Old vs Young
+Cysteine,-0.78,0.0045,Sulfur metabolism,Old vs Young
+Methionine,-0.67,0.0067,Methyl donor,Old vs Young
+S-Adenosylmethionine,-0.89,0.0034,Methylation,Old vs Young
+Homocysteine,1.23,0.00089,One-carbon,Old vs Young
+Taurine,-0.56,0.012,Sulfur amino acid,Old vs Young
+Carnosine,-1.12,0.0012,Dipeptide antioxidant,Old vs Young
+Anserine,-0.89,0.0034,Dipeptide antioxidant,Old vs Young
+Spermidine,-1.45,0.00023,Polyamine,Old vs Young
+Spermine,-1.23,0.00056,Polyamine,Old vs Young
+Putrescine,0.45,0.045,Polyamine,Old vs Young
+alpha-Ketoglutarate,-0.78,0.0056,TCA cycle,Old vs Young
+Succinate,0.89,0.0034,TCA cycle,Old vs Young
+Fumarate,0.67,0.0078,TCA cycle,Old vs Young
+Lactate,0.56,0.012,Glycolysis,Old vs Young
+Pyruvate,-0.34,0.067,Glycolysis,Old vs Young
+Acetyl-carnitine,-0.89,0.0034,Mitochondrial,Old vs Young
+Carnitine,-0.67,0.0067,Fat transport,Old vs Young
+Creatine,-0.78,0.0056,Energy storage,Old vs Young
+Phosphocreatine,-1.12,0.0023,Energy storage,Old vs Young
+ATP,-0.89,0.0045,Energy,Old vs Young
+AMP,0.67,0.0078,Energy sensing,Old vs Young
+Uric acid,0.89,0.0034,Purine/antioxidant,Old vs Young
+Kynurenine,1.34,0.00067,Tryptophan,Old vs Young
+Tryptophan,-0.89,0.0034,Amino acid,Old vs Young
+Serotonin,-0.67,0.0078,Neurotransmitter,Old vs Young
+Melatonin,-1.23,0.0012,Circadian,Old vs Young
+Cortisol,0.78,0.0056,Stress hormone,Old vs Young
+DHEA,-1.45,0.00034,Steroid hormone,Old vs Young
