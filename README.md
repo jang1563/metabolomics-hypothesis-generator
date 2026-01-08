@@ -175,18 +175,6 @@ For each hypothesis, the system estimates:
 
 This provides a principled uncertainty quantification rather than just "high/medium/low" confidence.
 
-## Alignment with Anthropic Role
-
-This project demonstrates skills aligned with the **Research Engineer / Research Scientist, Biology & Life Sciences** position:
-
-| Job Requirement | Demonstrated Skill |
-|-----------------|-------------------|
-| *"Design evaluation methodologies for AI in biology"* | Bayesian evaluation framework with quantified uncertainty |
-| *"Develop approaches for complex reasoning challenges"* | Multi-step hypothesis generation with chain-of-thought |
-| *"Translate biological domain ↔ ML objectives"* | Structured metabolomics data → LLM prompts → biological insights |
-| *"Collaborate with domain experts, gather data"* | Flexible data upload, literature integration |
-| *"Track record bridging biology & computation"* | End-to-end pipeline from raw data to experimental protocols |
-
 ## Future Extensions
 
 - [ ] Integration with HMDB/KEGG for automatic pathway enrichment
