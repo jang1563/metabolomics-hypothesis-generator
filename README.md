@@ -2,8 +2,6 @@
 
 🧬 **AI-powered hypothesis generation from differential metabolomics data with Bayesian uncertainty quantification**
 
-Built for the Anthropic Life Sciences Research Engineer position application.
-
 ![Screenshot](docs/screenshot.png)
 
 ## Features
