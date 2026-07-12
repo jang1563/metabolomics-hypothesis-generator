@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Metabolomics Hypothesis Workbench"
+version: 0.1.0
+date-released: 2026-07-12
+type: software
+authors:
+  - family-names: Kim
+    given-names: JangKeun
+repository-code: "https://github.com/jang1563/metabolomics-hypothesis-generator"
+url: "https://jang1563.github.io/metabolomics-hypothesis-generator/"
+license: MIT
+abstract: >-
+  A local-first research prototype for deterministic prioritization of
+  differential metabolomics signals and generation of cautious validation
+  candidates.
+keywords:
+  - metabolomics
+  - bioinformatics
+  - hypothesis prioritization
+  - reproducible research

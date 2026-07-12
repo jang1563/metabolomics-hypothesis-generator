@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Metabolomics Hypothesis Workbench">
+  <rect width="64" height="64" rx="15" fill="#0d281d"/>
+  <path d="M24 13h16M27 13v15L16 48a4 4 0 0 0 3.5 6h25a4 4 0 0 0 3.5-6L37 28V13" fill="none" stroke="#87f5b9" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M21 43h22" stroke="#80c9ff" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="29" cy="36" r="2" fill="#87f5b9"/>
+  <circle cx="37" cy="40" r="2" fill="#87f5b9"/>
+</svg>

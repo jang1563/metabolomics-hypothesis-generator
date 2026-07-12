@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0.0",
+  "project": "metabolomics-hypothesis-generator",
+  "version": "0.1.0",
+  "release_ref": "v0.1.0",
+  "release_date": "2026-07-12",
+  "history_policy": "single parentless research-only root",
+  "network_mode": "local-only",
+  "scientific_claim_boundary": "deterministic evidence prioritization; no probability, causal, diagnostic, clinical, or literature claim",
+  "artifacts": {
+    "synthetic_demo": {
+      "path": "src/data/synthetic_demo.csv",
+      "metadata": "src/data/synthetic_demo_metadata.json",
+      "rows": 16,
+      "synthetic": true,
+      "sha256": "4dbc6f6e89295f746be337fdc668b26de75ea10f379e50579a53af0b1e4a6eed"
+    }
+  },
+  "gates": [
+    "exact public path allowlist",
+    "current and reachable-history content scan",
+    "single parentless root and noreply commit identity",
+    "local-only runtime source scan",
+    "strict CSV and numerical validation tests",
+    "deterministic report and evidence-reference tests",
+    "synthetic provenance and checksum validation",
+    "production build and dependency audit"
+  ],
+  "paths": [
+    ".github/dependabot.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/pages.yml",
+    ".gitignore",
+    "CHANGELOG.md",
+    "CITATION.cff",
+    "CONTRIBUTING.md",
+    "LICENSE",
+    "README.md",
+    "SECURITY.md",
+    "docs/METHODS.md",
+    "docs/RELEASE_TRUST.md",
+    "index.html",
+    "package-lock.json",
+    "package.json",
+    "public/favicon.svg",
+    "release/public_release_manifest.json",
+    "scripts/check_public_surface.mjs",
+    "scripts/validate_release.mjs",
+    "src/App.jsx",
+    "src/data/synthetic_demo.csv",
+    "src/data/synthetic_demo_metadata.json",
+    "src/index.css",
+    "src/lib/analysis.js",
+    "src/lib/csv.js",
+    "src/lib/report.js",
+    "src/main.jsx",
+    "tests/analysis.test.js",
+    "tests/csv.test.js",
+    "tests/report.test.js",
+    "vite.config.js"
+  ]
+}

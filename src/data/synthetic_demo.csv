@@ -1,0 +1,17 @@
+feature_id,metabolite,log2FC,pvalue,pathway,contrast
+SYN-001,Lactate,1.86,0.0001,Glycolysis,Simulated condition vs control
+SYN-002,Glucose-6-phosphate,1.24,0.0007,Glycolysis,Simulated condition vs control
+SYN-003,Pyruvate,0.98,0.0021,Glycolysis,Simulated condition vs control
+SYN-004,Citrate,-1.38,0.0004,TCA cycle,Simulated condition vs control
+SYN-005,Alpha-ketoglutarate,-1.12,0.0013,TCA cycle,Simulated condition vs control
+SYN-006,Malate,-0.91,0.0032,TCA cycle,Simulated condition vs control
+SYN-007,Glutamine,-0.78,0.0064,Amino acid metabolism,Simulated condition vs control
+SYN-008,Glutamate,0.83,0.0091,Amino acid metabolism,Simulated condition vs control
+SYN-009,Acylcarnitine C16,1.07,0.0048,Fatty acid oxidation,Simulated condition vs control
+SYN-010,Free carnitine,-0.66,0.0180,Fatty acid oxidation,Simulated condition vs control
+SYN-011,Serine,0.48,0.0410,One-carbon metabolism,Simulated condition vs control
+SYN-012,Glycine,0.37,0.0830,One-carbon metabolism,Simulated condition vs control
+SYN-013,Alanine,0.21,0.3100,Amino acid metabolism,Simulated condition vs control
+SYN-014,Creatine,-0.18,0.4400,Energy buffering,Simulated condition vs control
+SYN-015,Uridine,0.09,0.6700,Pyrimidine metabolism,Simulated condition vs control
+SYN-016,Inosine,-0.05,0.8200,Purine metabolism,Simulated condition vs control

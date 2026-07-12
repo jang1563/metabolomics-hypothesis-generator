@@ -1,0 +1,22 @@
+{
+  "name": "Synthetic differential metabolomics demo",
+  "version": "0.1.0",
+  "synthetic": true,
+  "license": "MIT",
+  "purpose": "Software behavior, schema, and user-interface demonstration only",
+  "provenance": "Hand-authored fictional values; not derived from participants, specimens, publications, or clinical records",
+  "contrast": "Simulated condition vs control",
+  "columns": {
+    "feature_id": "Stable synthetic row identifier",
+    "metabolite": "Illustrative metabolite label",
+    "log2FC": "Signed base-2 log fold change for the simulated contrast",
+    "pvalue": "Illustrative unadjusted p-value used to exercise BH correction",
+    "pathway": "Illustrative pathway grouping",
+    "contrast": "Synthetic comparison label"
+  },
+  "limitations": [
+    "Values are intentionally illustrative and cannot support biological, diagnostic, or clinical claims.",
+    "Pathway labels are simplified software fixtures rather than a curated ontology.",
+    "The demo contains no raw spectra, participant data, or sample identifiers."
+  ]
+}
